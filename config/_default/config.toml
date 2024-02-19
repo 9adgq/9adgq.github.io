@@ -3,8 +3,7 @@ baseurl = "https://9adgq.github.io"
 languageCode = "zh-cn"
 paginate = 5
 title = "9adgq"
-[contentDir]  
-  sectionDir = ["All", "titled"]  # The default content directory
+contentDir = "All"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
