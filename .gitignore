@@ -68,3 +68,8 @@ Temporary Items
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
+
+public
+resources
+.hugo_build.lock
+assets/jsconfig.json
